@@ -4,3 +4,6 @@
 [submodule "4Rotors-mobile"]
 	path = 4Rotors-mobile
 	url = https://github.com/4Rotors/4Rotors-mobile
+[submodule "4Rotors-frontend"]
+	path = 4Rotors-frontend
+	url = https://github.com/4Rotors/4Rotors-frontend
